@@ -1,0 +1,2 @@
+promote to variavle -> bushcount
+bushcount->instance Editable(快螟可记蔼 眉农)
