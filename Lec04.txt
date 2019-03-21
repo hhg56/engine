@@ -1,0 +1,2 @@
+collapse to funtion으로 함수만들어서 더 간단해보이게 하기?
+tigerbox 생성 후 마우스우측클릭 -> add event -> beginoverrap, endoverrap
